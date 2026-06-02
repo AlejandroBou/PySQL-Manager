@@ -76,7 +76,7 @@ python prueba_conexion.py
 Si la conexión es correcta aparece:
 
 ```
-✅ Conexión establecida correctamente.
+ Conexión establecida correctamente.
 ```
 
 ### 4. Ejecutar la importación
@@ -90,9 +90,9 @@ python Tablas.py
 Mensajes esperados en la terminal:
 
 ```
-✅ Archivo listado.csv leído correctamente.
-✅ Conexión con PostgreSQL establecida.
-🚀 ¡Éxito! Se han importado 10 contactos.
+ Archivo listado.csv leído correctamente.
+ Conexión con PostgreSQL establecida.
+ ¡Éxito! Se han importado 10 contactos.
 ```
 
 ### 5. Verificar en pgAdmin
